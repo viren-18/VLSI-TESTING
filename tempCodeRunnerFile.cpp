@@ -1,0 +1,1 @@
+SerialFaultSimulation(module, faultList, testVectors);
